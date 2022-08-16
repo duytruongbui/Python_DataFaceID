@@ -1,0 +1,10 @@
+# tensorflow==2.5
+# keras_vggface
+# keras==2.4.3
+# keras_applications==1.0.8
+# scipy==1.6.3
+click==8.0.3
+easydict==1.9
+matplotlib==3.4.3
+opencv-python
+tqdm
